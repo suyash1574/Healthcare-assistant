@@ -1,0 +1,35 @@
+# Environment files
+.env
+.env.local
+.env.*
+
+# Virtual environments
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vector store and DBs
+vector_store/
+*.db
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project exclusions
+pkgs/
+.agents/
+

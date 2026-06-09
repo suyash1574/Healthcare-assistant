@@ -1,5 +1,6 @@
 # Environment
 .env
+.env.*
 
 # Python
 __pycache__/
@@ -12,6 +13,12 @@ venv/
 *.egg-info/
 dist/
 build/
+.env
+.env/
+
+# Project exclusions
+pkgs/
+.agents/
 
 # Vector store (generated at runtime)
 vector_store/
