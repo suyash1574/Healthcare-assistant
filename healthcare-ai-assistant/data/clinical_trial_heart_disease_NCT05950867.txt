@@ -1,0 +1,8 @@
+STUDY: Prevalence of Wild-type TTR Cardiac Amyloidosis in Patients With Polyneuropathy of Unknown Cause.
+NCT ID: NCT05950867
+CONDITION: heart disease
+
+SUMMARY:
+To investigate to what extent chronic axonal length-dependent polyneuropathy (CAP) and/or small-fiber neuropathy (SFN) is part of early non-cardiac manifestations of wild-type TTR cardiac amyloidosis (wtTTR-CA).
+
+Consequently, explore whether this could ultimately lead to faster diagnosis and clinical outcome of wild-type TTR cardiac amyloidosis (wtTTR-CA).

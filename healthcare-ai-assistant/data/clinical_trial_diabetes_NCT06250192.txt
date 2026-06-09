@@ -1,0 +1,6 @@
+STUDY: Educational TOolS for Pregnant Women With Diabetes Mellitus
+NCT ID: NCT06250192
+CONDITION: diabetes
+
+SUMMARY:
+A randomized controlled trial evaluating whether a patient-centered virtual educational tool based on small videos focusing on optimization of mental health, diet, physical activity, self-adjustment of insulin dose and use of diabetes technology in addition to usual individual face-to-face education, will improve glycemic control and pregnancy outcome in women with pre-existing diabetes mellitus compared to women receiving usual individual face-to-face education alone.

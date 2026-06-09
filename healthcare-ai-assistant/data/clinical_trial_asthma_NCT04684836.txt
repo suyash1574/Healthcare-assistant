@@ -1,0 +1,6 @@
+STUDY: Comparative Effectiveness of Telemedicine in Primary Care
+NCT ID: NCT04684836
+CONDITION: asthma
+
+SUMMARY:
+Leveraging a natural experiment approach, the investigators will examine rapidly changing telemedicine and in-person models of care during and after the COVID-19 crisis to determine whether certain patients could safely choose to continue telemedicine or telemedicine-supplemented care, rather than return to in-person care.

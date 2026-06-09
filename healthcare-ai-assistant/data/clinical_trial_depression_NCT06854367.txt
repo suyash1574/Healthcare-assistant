@@ -1,0 +1,6 @@
+STUDY: Accelerated vs. Conventional Theta Burst Stimulation for Late-life Depression
+NCT ID: NCT06854367
+CONDITION: depression
+
+SUMMARY:
+The purpose of this trial is to compare the treatment efficacy (improvement in depressive symptoms) of accelerated TBS protocol (where participants receive multiple TBS treatments daily) to conventional TBS protocol (where participants receive a single TBS treatment daily) in late life depression. In addition, the study also aims to determine if specific patterns of stimulation are more or less effective. To do this, all participants will receive active treatments, but some of the participants in this study will receive accelerated TBS and some will receive once daily TBS.

@@ -1,0 +1,6 @@
+STUDY: Safety and Efficacy of an Antibiotic Sponge in Diabetic Patients With a Mild Infection of a Foot Ulcer
+NCT ID: NCT00593567
+CONDITION: diabetes
+
+SUMMARY:
+The purpose of this study is to determine whether the gentamicin-collagen sponge when combined with standard of daily wound care is safe and effective in treating mildly infected skin ulcers compared to treatment with an oral antibiotic (levofloxacin) and standard daily wound care.

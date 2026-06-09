@@ -1,0 +1,194 @@
+--- Page 1 ---
+6/9/26, 8:23 PM XML Files: MedlinePlus
+
+= An official website of the United States government Here’s how you know
+
+Trusted Health Information for You
+
+ys MedlinePlus
+
+Home — MedlinePlus XML Files
+
+URL of this page: https://medlineplus.gov/xml.html
+
+MedlinePlus XML Files
+
+MedlinePlus produces XML data sets that you are welcome to download and use. If you have questions about the
+MedlinePlus XML files, please contact us [https://support.nim.nih.gov/support/create-case/?
+category=medlineplus&from=https://medlineplus.gov/xml.html/] . For additional sources of MedlinePlus data in XML
+format, visit our Web service [https://medlineplus.gov/about/developers/webservices/] page. If you are looking for
+data from MedlinePlus Genetics, please see MedlinePlus Genetics Data Files & API
+[https://medlineplus.gov/about/developers/geneticsdatafilesapi/] .
+
+If you use data from MedlinePlus XML files or build an interface that utilizes the files, please indicate that the
+information is from MedlinePlus.gov [https://medlineplus.gov/index.html] . Please see NLM’s API page
+[https://eresources.nlm.nih.gov/nim_eresources/] for further guidance.
+
+Health Topics
+
+MedlinePlus publishes three types of health topic XML files daily (Tuesday-Saturday):
+e MedlinePlus Health Topic XML
+e MedlinePlus Compressed Health Topic XML
+e MedlinePlus Health Topic Group XML
+
+The six most recent files and their corresponding DTDs are linked at the bottom of this section.
+
+The MedlinePlus health topic XML files contain records for all English [https://medlineplus.gov/all_healthtopics.html]
+and Spanish [https://medlineplus.gov/spanish/all_healthtopics.html] health topics. Each health topic record includes
+
+data elements associated with that topic. This associated data includes:
+
+e basic metadata (health topic title, URL, language, date created, and ID),
+
+vocabulary (MeSH, "Also called" terms, and see references),
+e full summary,
+* group membership,
+
+¢ related health topics,
+
+equivalent English or Spanish topics,
+
+https://medlineplus.gov/xmI.html 1/4
+
+
+--- Page 2 ---
+6/9/26, 8:23 PM XML Files: MedlinePlus
+e related content in other languages,
+
+e primary NIH institute, and
+
+¢ all site records (links) assigned to a health topic page, including their names, URLs, organizations, category
+assignments, and standard descriptions.
+
+These XML files allow you to download and use virtually all text and links that appear on MedlinePlus health topic
+pages. For complete details on all elements and attributes in the MedlinePlus health topic XML, see the MedlinePlus
+XML file description [https://medlineplus.gov/xmldescription.html] .
+
+The MedlinePlus Compressed Health Topic XML contains the same information as the MedlinePlus Health Topic
+XML, but it is posted as a .zip file for easier downloading.
+
+The MedlinePlus health topic group XML files contain information on all English
+[https://medlineplus.gov/healthtopics.html] and Spanish [https://medlineplus.gov/spanish/healthtopics.html] topic
+groups.
+
+Files generated on June 09, 2026
+
+MedlinePlus Health Topic XML [https://medlineplus.gov/xml/mplus_topics_2026-06-09.xml] (29202 K) (DTD
+[https://medlineplus.gov/xml/mplus_topics_2012-06-01 .dtd] , 5 K)
+
+MedlinePlus Compressed Health Topic XML [https://medlineplus.gov/xml/mplus_topics_compressed_2026-06-
+09.zip] (4615 K)
+
+MedlinePlus Health Topic Group XML [https://medlineplus.gov/xml/mplus_topic_groups_2026-06-09.xml] (11
+K) (DTD [https://medlineplus.gov/xml/mplus_groups_2012-06-01 .dtd] , 3 K)
+
+Files generated on June 06, 2026
+
+MedlinePlus Health Topic XML [https://medlineplus.gov/xml/mplus_topics_2026-06-06.xml] (29181 K) (DTD
+[https://medlineplus.gov/xml/mplus_topics_2012-06-01 .dtd] , 5 K)
+
+MedlinePlus Compressed Health Topic XML [https://medlineplus.gov/xml/mplus_topics_compressed_2026-06-
+06.zip] (4610 kK)
+
+MedlinePlus Health Topic Group XML [https://medlineplus.gov/xml/mplus_topic_groups_2026-06-06.xml] (11
+K) (DTD [https://medlineplus.gov/xml/mplus_groups_ 2012-06-01 .dtd] , 3 K)
+
+Files generated on June 05, 2026
+
+MedlinePlus Health Topic XML [https://medlineplus.gov/xml/mplus_topics_2026-06-05.xml] (29226 K) (DTD
+[https://medlineplus.gov/xml/mplus_topics_2012-06-01.dtd] , 5 K)
+
+MedlinePlus Compressed Health Topic XML [https://medlineplus.gov/xml/mplus_topics_compressed_2026-06-
+05.zip] (4619 kK)
+
+MedlinePlus Health Topic Group XML [https://medlineplus.gov/xml/mplus_topic_groups_2026-06-05.xml] (11
+K) (DTD [https://medlineplus.gov/xml/mplus_groups_ 2012-06-01 .dtd] , 3 K)
+
+https://medlineplus.gov/xmI.html
+
+
+--- Page 3 ---
+6/9/26, 8:23 PM XML Files: MedlinePlus
+
+Files generated on June 04, 2026
+
+MedlinePlus Health Topic XML [https://medlineplus.gov/xml/mplus_topics_2026-06-04.xml] (29212 K) (DTD
+[https://medlineplus.gov/xml/mplus_topics_2012-06-01.dtd] , 5 K)
+
+MedlinePlus Compressed Health Topic XML [https://medlineplus.gov/xml/mplus_topics_compressed_2026-06-
+04.zip] (4613 K)
+
+MedlinePlus Health Topic Group XML [https://medlineplus.gov/xml/mplus_topic_groups_2026-06-04.xml] (11
+K) (DTD [https://medlineplus.gov/xml/mplus_groups_2012-06-01.dtd] , 3 K)
+
+Files generated on June 03, 2026
+
+MedlinePlus Health Topic XML [https://medlineplus.gov/xml/mplus_topics_2026-06-03.xml] (29220 K) (DTD
+[https://medlineplus.gov/xml/mplus_topics_2012-06-01.dtd] , 5 K)
+
+MedlinePlus Compressed Health Topic XML [https://medlineplus.gov/xml/mplus_topics_compressed_2026-06-
+03.zip] (4614 K)
+
+MedlinePlus Health Topic Group XML [https://medlineplus.gov/xml/mplus_topic_groups_2026-06-03.xml] (11
+K) (DTD [https://medlineplus.gov/xml/mplus_groups_2012-06-01.dtd] , 3 K)
+
+Files generated on June 02, 2026
+
+MedlinePlus Health Topic XML [https://medlineplus.gov/xml/mplus_topics_2026-06-02.xml] (29232 K) (DTD
+[https://medlineplus.gov/xml/mplus_topics_2012-06-01 .dtd] , 5 K)
+
+MedlinePlus Compressed Health Topic XML [https://medlineplus.gov/xml/mplus_topics_compressed_2026-06-
+02.zip] (4617 K)
+
+MedlinePlus Health Topic Group XML [https://medlineplus.gov/xml/mplus_topic_groups_2026-06-02.xml] (11
+K) (DTD [https://medlineplus.gov/xml/mplus_groups_2012-06-01.dtd] , 3 K)
+
+Definitions of Health Terms
+
+These files contain English definitions of health terms. The files contain
+¢ health terms
+
+¢ definitions
+
+e NIH sources for the definitions
+
+These files are updated on an infrequent basis.
+
+Definitions of Health Terms: Fitness XML [https://medlineplus.gov/xml/fitnessdefinitions.xml] (7 K)
+
+Definitions of Health Terms: General Health XML [https://medlineplus.gov/xml/generalhealthdefinitions.xml] (5 K)
+Definitions of Health Terms: Minerals XML [https://medlineplus.gov/xml/mineralsdefinitions.xml] (9 K)
+
+Definitions of Health Terms: Nutrition XML [https://medlineplus.gov/xml/nutritiondefinitions.xml] (14 K)
+Definitions of Health Terms: Vitamins XML [https://medlineplus.gov/xml/vitaminsdefinitions.xml] (9 K)
+
+XML Schema Definition [https://medlineplus.gov/xml/definitions.xsd] (XSD, 2 K)
+
+https://medlineplus.gov/xmI.html
+
+
+--- Page 4 ---
+6/9/26, 8:23 PM XML Files: MedlinePlus
+
+Health Services Vocabulary
+
+This file contains information on all of the Local Service Terms used for the Go Local Web site. The file contains
+
+e service terms
+¢ definitions and see references
+
+e service types for each service term
+The National Library of Medicine ceased maintaining this file as of March 31, 2010. This file is for reference only.
+
+Complete Local Service Terms Vocabulary [https://medlineplus.gov/xml/vocabulary/localservicetermvocab.xml] (117
+K) (DTD [https://medlineplus.gov/xml/vocabulary/localserviceterms.dtd] , 4K)
+
+National Library of Medicine 8600 Rockville Pike, Bethesda, MD 20894 U.S. Department of Health and Human Services
+
+National Institutes of Health
+
+https://medlineplus.gov/xmI.html
+
+4/4
+
+

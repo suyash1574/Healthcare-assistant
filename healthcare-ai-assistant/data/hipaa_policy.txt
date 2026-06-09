@@ -1,0 +1,25 @@
+HIPAA Privacy and Security Policy
+
+Patient information must remain confidential at all times. All healthcare staff are required to complete annual HIPAA training and adhere to strict privacy protocols.
+
+Healthcare staff may only access patient records when necessary for treatment, payment, or healthcare operations. Access is logged and monitored for compliance with the minimum necessary standard.
+
+Protected Health Information (PHI) must not be shared with unauthorized individuals. PHI includes any information that can identify a patient and relates to health conditions, treatment, or payment for healthcare services.
+
+Patient consent is required before sharing PHI with family members, friends, or other individuals involved in the patient's care. Written authorization is needed for disclosures not related to treatment, payment, or healthcare operations.
+
+Electronic PHI must be encrypted during transmission and storage. All devices containing PHI must have password protection and encryption enabled. Lost or stolen devices must be reported immediately.
+
+Physical safeguards include secure storage of paper records, restricted access to areas where PHI is stored, and proper disposal of documents containing PHI. Shredding is required for all paper documents containing PHI before disposal.
+
+Patient rights under HIPAA include the right to access their medical records, request amendments, receive an accounting of disclosures, and restrict certain uses of their PHI. Requests must be submitted in writing and will be processed within 30 days.
+
+Breach notification requirements mandate that patients be notified within 60 days of discovering a breach of unsecured PHI. The notification must include a description of the breach, types of information involved, and steps patients should take to protect themselves.
+
+Business associates who handle PHI must sign a Business Associate Agreement (BAA). This agreement outlines their responsibilities for protecting PHI and complying with HIPAA regulations.
+
+Social media policies prohibit staff from posting any patient information on personal or professional social media accounts. This includes photographs, names, or any identifying information about patients.
+
+Minimum necessary standard requires that only the minimum amount of PHI necessary for the intended purpose be used or disclosed. Staff must evaluate each request to ensure compliance with this standard.
+
+Patient communication via email and text messages requires explicit consent. Patients must be informed of the risks of electronic communication and sign an authorization form before PHI can be transmitted electronically.

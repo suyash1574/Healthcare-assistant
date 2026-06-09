@@ -1,0 +1,22 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+# LangChain RAG pipeline
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-groq
+
+# Embeddings & vector store
+sentence-transformers
+chromadb
+
+# LLM
+groq
+
+# Document loading
+pypdf

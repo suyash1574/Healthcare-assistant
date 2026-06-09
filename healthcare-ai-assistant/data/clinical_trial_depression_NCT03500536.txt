@@ -1,0 +1,6 @@
+STUDY: Understanding the Efficacy of Mobile Apps as Intervention for Depression in Adults When Deployed as Part of Primary Care.
+NCT ID: NCT03500536
+CONDITION: depression
+
+SUMMARY:
+The clinical study is meant to optimize the mobile intervention, to develop a robust implementation plan for the mobile intervention within primary care, and to conduct an effectiveness trial, randomizing 128 participants in order to understand effect on severity of depression and anxiety symptoms, cost-effectiveness, and usability of mobile apps.

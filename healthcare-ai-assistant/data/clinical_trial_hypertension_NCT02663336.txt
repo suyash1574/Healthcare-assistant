@@ -1,0 +1,6 @@
+STUDY: Prevalence of Masked Hypertension in Nephrological Patients
+NCT ID: NCT02663336
+CONDITION: hypertension
+
+SUMMARY:
+The purpose of this study is to determine the percentage of patients with masked hypertension in a population with chronic kidney disease. The investigators goal is to register prospectively ambulatory blood pressure measurement results of patients of a nephrological outpatient clinic with normal office blood pressure to finally find the percentage of masked hypertension in this population.

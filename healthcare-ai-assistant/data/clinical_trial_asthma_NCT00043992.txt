@@ -1,0 +1,6 @@
+STUDY: Outdoor Allergen Exposure, Sensitivity, and Acute Asthma
+NCT ID: NCT00043992
+CONDITION: asthma
+
+SUMMARY:
+To examine the role of outdoor pollen grains and fungal spores in the exacerbation of asthma and to produce forecasting models to predict days of high concentration.

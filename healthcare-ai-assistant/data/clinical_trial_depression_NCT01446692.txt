@@ -1,0 +1,6 @@
+STUDY: Badalona Major Depressive Disorder Database Study
+NCT ID: NCT01446692
+CONDITION: depression
+
+SUMMARY:
+A retrospective study using a data base of anonymized medical records. The purpose of the study is to examine the different therapeutic strategies for the management of patients with major depressive disorder (MDD) and suboptimal response to antidepressant drugs in primary care

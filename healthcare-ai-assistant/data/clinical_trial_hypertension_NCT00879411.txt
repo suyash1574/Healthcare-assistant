@@ -1,0 +1,6 @@
+STUDY: Investigating the Effect of Telmisartan (Micardis®) on the Average 24h Blood Pressure of Therapy-naive and Therapy-experienced Patients
+NCT ID: NCT00879411
+CONDITION: hypertension
+
+SUMMARY:
+Practical experience report (PER) investigating the effect of Micardis® on the average 24h blood pressure of therapy-naive and therapy-experienced patients

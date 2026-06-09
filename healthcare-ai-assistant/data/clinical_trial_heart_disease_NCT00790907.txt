@@ -1,0 +1,6 @@
+STUDY: Fondaparinux Trial With Unfractionated Heparin (UFH) During Revascularization in Acute Coronary Syndromes (ACS)
+NCT ID: NCT00790907
+CONDITION: heart disease
+
+SUMMARY:
+The purpose of this study is to compare the safety of two different dose regimens of unfractionated heparin (UFH) during a percutaneous coronary intervention (PCI) procedure in patients with UA (unstable angina)/NSTEMI (non ST segment elevation myocardial infarction) who have been initially treated with fondaparinux.

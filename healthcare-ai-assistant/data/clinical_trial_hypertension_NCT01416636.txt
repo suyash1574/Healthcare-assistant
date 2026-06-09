@@ -1,0 +1,6 @@
+STUDY: Efficacy and Tolerability of Subcutaneously Administered Treprostinil Sodium in Patients With Severe (Non-operable) Chronic Thromboembolic Pulmonary Hypertension (CTREPH)
+NCT ID: NCT01416636
+CONDITION: hypertension
+
+SUMMARY:
+The primary purpose of this study is to determine the effect on six-minute walking test (6MWT) distance after 24 weeks treatment with subcutaneous (SC) Treprostinil Sodium in patients with Severe (inoperable) Chronic Thromboembolic Pulmonary Hypertension.

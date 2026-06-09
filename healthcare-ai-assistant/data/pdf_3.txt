@@ -1,0 +1,221 @@
+--- Page 1 ---
+6/9/26, 8:23 PM openFDA | FDA
+
+openFDA
+
+FDA has some of the world's most valuable data stores about human health and medicine
+publicly available on its web site. The data are relevant and important to a wide range of groups.
+
+But the hurdles for a developer or researcher to use FDA data can be exceedingly high. For
+example, someone wanting to use a structured XML document of known adverse event reports
+for a particular drug would have to go through many complex steps to be able to obtain accurate
+
+results.
+
+Now, openFDA (https://open.fda.gov/index.html), an FDA Health Informatics initiative launched
+
+in June 2014, is making it easier for researchers, scientists, web developers, and other FDA
+regulatory stakeholders to access and use those datasets in an open standard format.
+
+The project aims to create easy access to public data and a new level of openness and
+accountability; ensure the privacy and security of public FDA data; educate the public; and save
+lives.
+
+Members of the scientific community can use openFDA to have their applications automatically
+query the data through application program interfaces (APIs). OpenFDA increases the
+efficiency and speed of accessing datasets by using cutting-edge, open-source code modules in
+a cloud-based environment.
+
+Nimble and user-centered product development methodologies are being used to expand and
+improve the platform and ensure user friendliness of its functions. The current APIs include:
+For Human Drugs*
+
+e labeling (more than 67,000 for drugs currently on the market)
+
+¢ reports on negative side effects (4.9 million since 2003)
+
+Top ()
+e enforcement reports (4,000 records since 2012)
+
+https://www.fda.gov/science-research/health-informatics-fda/openfda
+
+yoeqpae4
+
+1/5
+
+
+--- Page 2 ---
+6/9/26, 8:23 PM openFDA | FDA
+* over-the-counter and prescription drugs in the United States, including biological therapeutics
+and generic drugs
+For Devices
+
+¢ classification of 1,700 distinct types of devices organized into 16 medical specialties
+(6,000 records)
+
+¢ registration and listing
+* companies and establishments registrations (24,000 records)
+* companies product listings (100,000 records)
+¢ premarket approvals (PMAs) and approval supplements (30,000 records since 1977)
+
+e clearances through premarket notifications (510(k)s) and granted de novo requests
+(141,000 records since 1976)
+
+¢ recalls (9,500 records since 2002)
+
+e adverse event reports (4.4 million records since 1991)
+
+For Foods
+
+e enforcement reports (8,600 records since 2012)
+
+To date, there have been more than 20 million API calls, half of which were from outside the
+United States, more than 6,000 registered users, 21,000 connected systems worldwide, and
+dozens of new software applications that the community has built. Also, FDA scientists
+developed a statistics application for analyzing drug and device adverse events and drug
+
+http:/Awww.fda.gov/about-fda/website-policies/website-disclaimer), that is being added to
+
+openFDA.
+
+FDA's Scientific Computing Day Posters
+
+September 9-10, 2019
+
+e HetEnc: A Deep Learning Predictive Model for Multi-type Biological DatasetUsing Neural
+
+Network to Identify CDER Manufacturing Sites with Non-compliant Good Manufacturing
+
+Practice (GMP) Inspection Outcomes (/media/130492/download?attachment)
+
+e Integrating Adverse Outcome Pathways (AOPs) and High Throughput in vitro Assays for
+
+Better Risk Evaluations, a Study with Drug Induced Liver Injury (DILI)
+(/media/130493/download?attachment)
+
+a
+Top ()
+
+https://www.fda.gov/science-research/health-informatics-fda/openfda 2/5
+
+
+--- Page 3 ---
+6/9/26, 8:23 PM openFDA | FDA
+
+e Utilizing Neural Network to Identify CDER Manufacturing Sites with Non-compliant Good
+
+Manufacturing Practice(GMP) Inspection Outcomes (/media/130494/download?
+
+attachment)
+
+e R Shiny Based Mobile Tools To Aid Regulatory Decisions And Program Evaluation
+(/media/130495/download?attachment)
+
+e Rapid Geographic Risk Assessment and Model Development Using GREAT and BRisk
+Applications (/media/130520/download?attachment)
+
+e HYDRA: An Open-Source Platform for Automated Mining_and Visualization of Regulatory
+Data Using Natural Language Processing and Machine Learning
+(/media/130521/download?attachment)
+
+e An NLP-Based Approach for Metadata Extraction and Analysis fo FDA Guidance
+Documents (/media/130499/download?attachment)
+
+e Using Machine Learning on ICD-10 data to Enhance an Expert Anaphylaxis Case
+Definition (/media/130522/download?attachment)
+
+¢ Developing Methods for Image Acquisition and Image Analysis for Species-Level
+
+Identifying Food Contaminating Beetles (/media/130502/download?attachment)
+
+¢ AData Anomaly Detection Tool for Site Selection at FDA (/media/130496/download?
+attachment)
+
+Application Scaling Techniques on HPC Clusters (/media/130500/download?attachment)
+
+under CiPA (/media/130504/download?attachment)
+
+e Data Visualization Tool to Map CDER's Priorities and Deliverables: Role of Public-Private
+Partnerships (/media/130497/download?attachment)
+
+¢ Implementation of Galaxy to expand the use of command-line based bioinformatics
+analysis of genome-editing experiments (/media/130503/download?attachment)
+
+Peridot: A Novel, Prototype, Web-based Toolbox to Conduct Comprehensive Drug Safety
+
+and Pharmacovigilance Activities (/media/130505/download?attachment)
+
+¢ Bloat-Ectomy: A Method for the Identification and Removal of Duplicate Text in the Bloated
+
+Notes of Electronic Health Records and Other Documents (/media/130501/download?
+
+attachment)
+
+Advancing the Regulatory Science of Omics via Crowdsourcing on the precisionFDA
+
+Platform (/media/130498/download?attachment), a
+Top ()
+
+https://www.fda.gov/science-research/health-informatics-fda/openfda 3/5
+
+
+--- Page 4 ---
+6/9/26, 8:23 PM openFDA | FDA
+¢ FDA's Virtual Assistant: Utilizing Machine Learning for Automated Customer Service
+(/media/130558/download?attachment)
+
+¢ Terminology and Relationships fora Smokeless Tobacco Product Ontology
+(/media/130559/download?attachment)
+
+¢ CTP Integrated Research and Data System (CIRDS) (/media/130560/download?
+attachment)
+
+More information about the 2019 Scientific Computing Day Symposium (/news-events/fda-
+
+meetings-conferences-and-workshops/2019-scientific-computing-days-symposium-09092019)
+
+Resources For You
+
+¢ OpenFDA: Innovative Initiative Opens Door to Wealth of FDA's Publicly Available Data
+(http://blogs.fda.gov/fdavoice/index.php/2014/06/openfda-innovative-initiative-opens-door-
+
+to-wealth-of-fdas-publicly-available-data/)
+
+¢ OpenFDA Provides Ready Access to Recall Data
+(http://http://blogs.fda.gov/fdavoice/index.php/2014/07/openfda-provides-ready-access-to-
+
+recall-data/) @ (http://www.fda.gov/about-fda/website-policies/website-disclaimer)
+
+e FDALeverages Big Data Via Cloud Computing (http://blogs.fda.gov/fdavoice/?s=FDA
+
+Leverages Big Data Via Cloud Computing&submit=Search),
+
+Providing Easy Access to Medical Device Reports Submitted to FDA Since the Early
+1990s (http://blogs.fda.gov/fdavoice/?s=Providing Easy Access to Medical Device
+Reports&submit=Search)
+
+¢ OpenFDA Makes Medical Device-Related Data Easier to Access and Use
+(http://blogs.fda.gov/fdavoice/?s=OpenEDA Makes Medical Device-Related Data Easier to
+
+Access and Use&submit=Search)
+
+Was this page helpful? * (required)
+
+Yes
+No
+a
+Submit Top ()
+
+https://www.fda.gov/science-research/health-informatics-fda/openfda 4/5
+
+
+--- Page 5 ---
+6/9/26, 8:23 PM openFDA | FDA
+
+= An official form of the United States government. Provided by Touchpoints
+
+Top ()
+
+https://www.fda.gov/science-research/health-informatics-fda/openfda 5/5
+
+
