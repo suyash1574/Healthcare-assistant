@@ -10,6 +10,7 @@ langchain-text-splitters
 langchain-huggingface
 langchain-chroma
 langchain-groq
+langchain-openai
 
 # Embeddings & vector store
 sentence-transformers
